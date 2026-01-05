@@ -22,3 +22,5 @@ This repository reflects my consistent DSA practice and interview preparation.
 - GeeksforGeeks
 - CodeStudio
 
+## Coding Profiles
+- LeetCode: https://leetcode.com/u/kousthubh10/
